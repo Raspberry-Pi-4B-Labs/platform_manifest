@@ -89,4 +89,18 @@
   <remove-project name="platform/hardware/qcom/sm8150p/gps" />
   <remove-project name="platform/hardware/qcom/wlan" />
   <remove-project name="platform/hardware/samsung/nfc" />
+  <remove-project name="kernel/prebuilts/common-modules/virtual-device/4.19/arm64" />
+  <remove-project name="kernel/prebuilts/common-modules/virtual-device/4.19/x86-64" />
+  <remove-project name="kernel/prebuilts/common-modules/virtual-device/5.4/arm64" />
+  <remove-project name="kernel/prebuilts/common-modules/virtual-device/5.4/x86-64" />
+  <remove-project name="kernel/prebuilts/common-modules/virtual-device/5.10/arm64" />
+  <remove-project name="kernel/prebuilts/common-modules/virtual-device/5.10/x86-64" />
+  <remove-project name="kernel/prebuilts/common-modules/virtual-device/5.15/arm64" />
+  <remove-project name="kernel/prebuilts/common-modules/virtual-device/5.15/x86-64" />
+  <remove-project name="kernel/prebuilts/common-modules/virtual-device/6.1/arm64" />
+  <remove-project name="kernel/prebuilts/common-modules/virtual-device/6.1/x86-64" />
+  <remove-project name="kernel/prebuilts/common-modules/virtual-device/6.6/arm64" />
+  <remove-project name="kernel/prebuilts/common-modules/virtual-device/6.6/x86-64" />
+  <remove-project name="kernel/prebuilts/common-modules/virtual-device/mainline/arm64" />
+  <remove-project name="kernel/prebuilts/common-modules/virtual-device/mainline/x86-64" />
 </manifest>
